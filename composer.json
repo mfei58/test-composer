@@ -1,5 +1,5 @@
 {
-    "name": "testcomposer/scanner",
+    "name": "mfei58/scanner",
     "description": "Scan an array of URLs and report inaccessible URLs",
     "keywords": ["url", "scanner", "csv"],
     "license": "MIT",
