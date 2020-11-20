@@ -1,18 +1,17 @@
 {
-    "name": "modernphp/scanner",
+    "name": "testcomposer/scanner",
     "description": "Scan an array of URLs and report inaccessible URLs",
     "keywords": ["url", "scanner", "csv"],
-    "homepage": "http://shop.oreilly.com/product/0636920033868.do",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "homepage": "https://github.com/codeguy",
+            "name": "mfei",
+            "homepage": "https://github.com/mfei58",
             "role": "Developer"
         }
     ],
     "support": {
-        "email": "hello@joshlockhart.com"
+        "email": "mfei58@qq.com"
     },
     "require": {
         "php" : ">=5.4.0",
@@ -26,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Oreilly\\ModernPHP\\": "src/"
+            "Mfei\\ModernPHP\\": "src/"
         }
     }
 }
